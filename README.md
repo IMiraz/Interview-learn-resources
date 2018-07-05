@@ -5,7 +5,8 @@ Jackson Gabbard - All Episodes
 https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ
 
 # Articles/Blogs:
-https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+<a href="https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z">JavaScript Interview Questions</a>
+
 https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d
 https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
 https://www.quora.com/What-is-the-best-way-to-get-a-job-internship-in-Silicon-Valley-as-an-undergraduate-student-in-Indonesia
