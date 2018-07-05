@@ -1,8 +1,8 @@
 # Interview-resources
 
 # Videos
-Jackson Gabbard - All Episodes
-https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ
+[Jackson Gabbard - All Episodes]
+(https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 
 # Articles/Blogs:
 <a href="https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z">JavaScript Interview Questions</a>
