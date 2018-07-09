@@ -12,3 +12,4 @@ https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
 https://www.quora.com/What-is-the-best-way-to-get-a-job-internship-in-Silicon-Valley-as-an-undergraduate-student-in-Indonesia
 https://www.forbes.com/sites/laurencebradford/2018/01/30/how-to-hunt-for-jobs-in-silicon-valley-in-2018/#11577cc27a5d
 http://tutdent.com/tb/reactjs-interview-questions-and-answers/?i=1
+js interview :https://khan4019.github.io/front-end-Interview-Questions/sort.html#mergeSort
