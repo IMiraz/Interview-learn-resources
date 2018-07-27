@@ -18,3 +18,5 @@ MVC :http://masnun.com/2013/06/28/mvc-model-view-controller-pattern.html
 
 #Algorithmwith fun:
 learnalgorithmwithfun.blogspot.com/2016/12/time-complexity.html
+#Best artical for knowing redux :racehorse:
+https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%B8%E0%A6%B0%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-redux-a92a49a1c709
